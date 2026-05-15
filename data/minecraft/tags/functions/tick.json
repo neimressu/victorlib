@@ -1,0 +1,14 @@
+{
+    "values": [
+        "vl2:timer/tick",
+        "vl2:player_pos/tick",
+        "vl2:allowed_zone/tick",
+        "vl2:lobby/tick",
+        "vl2:teams/tick",
+        "vl2:game_info/tick",
+        "vl2:respawn/tick",
+        "vl2:global/tick",
+        "vl2:class_system/tick",
+        "vl2:force_gamemode/tick"
+    ]
+}

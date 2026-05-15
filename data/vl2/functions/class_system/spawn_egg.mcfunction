@@ -1,0 +1,1 @@
+give @p zombie_spawn_egg{EntityTag:{id:armor_stand,ShowArms:1b,Tags:["weapon_storage"]}}

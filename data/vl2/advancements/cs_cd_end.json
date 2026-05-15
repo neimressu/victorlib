@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "vl_cd": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "vl_cd"
+    ]
+  ],
+  "rewards": {
+    "function": "vl2:class_system/cd_end"
+  }
+}

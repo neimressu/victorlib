@@ -1,0 +1,3 @@
+scoreboard objectives add vl_respawnTimer dummy
+scoreboard objectives add vl_deathRespawn deathCount
+gamerule doImmediateRespawn true

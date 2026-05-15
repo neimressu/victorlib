@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "vl_join": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "vl_join"
+    ]
+  ],
+  "rewards": {
+    "function": "vl2:advancements/welcome"
+  }
+}

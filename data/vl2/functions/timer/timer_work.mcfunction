@@ -1,0 +1,3 @@
+execute if data storage vl2:timer {start:1} if score sec vl_timer matches 0.. unless data storage vl2:timer {state:0} run scoreboard players remove sec vl_timer 1
+execute if data storage vl2:timer {start:1} if score sec vl_timer matches 0.. if data storage vl2:timer {state:0} if score Online vl_math >= needOnline vl_math run scoreboard players remove sec vl_timer 1
+execute if data storage vl2:timer {start:1} if score sec vl_timer matches ..-1 unless score min vl_timer matches 0 run function vl2:timer/rem_min

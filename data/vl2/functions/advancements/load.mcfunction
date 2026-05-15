@@ -1,0 +1,2 @@
+scoreboard objectives add vl_cumulativeMoney dummy
+scoreboard objectives add vl_foodEaten minecraft.used:combatgear.rations

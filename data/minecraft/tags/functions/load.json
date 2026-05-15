@@ -1,0 +1,16 @@
+{
+    "values": [
+        "vl2:timer/1s_cycle",
+        "vl2:timer/10t_cycle",
+        "vl2:timer/load",
+        "vl2:game_info/load",
+        "vl2:global/load",
+        "vl2:player_pos/load",
+        "vl2:allowed_zone/load",
+        "vl2:lobby/load",
+        "vl2:teams/load",
+        "vl2:class_system/load",
+        "vl2:respawn/load",
+        "vl2:force_gamemode/load"
+    ]
+}

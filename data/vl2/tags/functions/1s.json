@@ -1,0 +1,7 @@
+{
+    "values": [
+        "vl2:timer/timer_work",
+        "vl2:class_system/1s",
+        "vl2:advancements/ptp"
+    ]
+}

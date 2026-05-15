@@ -1,0 +1,1 @@
+summon marker ~ ~.1 ~ {Tags:["vl2","spawn","team1"]}

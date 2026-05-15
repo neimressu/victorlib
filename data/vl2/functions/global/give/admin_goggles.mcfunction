@@ -1,0 +1,1 @@
+give @s create:goggles{CustomData:["admin"]}

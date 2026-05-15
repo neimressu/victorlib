@@ -1,0 +1,4 @@
+scoreboard objectives add vl_gameInfo dummy
+scoreboard players add needOnline vl_math 0
+scoreboard objectives add vl_playerKillCount playerKillCount
+scoreboard objectives add vl_playerDeathCount deathCount

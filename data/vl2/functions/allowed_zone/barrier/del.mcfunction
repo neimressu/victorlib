@@ -1,0 +1,1 @@
+execute at @e[tag=vl2,tag=zone,tag=barrier] run fill ~ ~ ~ ^ ^6 ^6 air replace barrier

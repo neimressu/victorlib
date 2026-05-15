@@ -1,0 +1,1 @@
+function #vl2:game_info/write_game_info

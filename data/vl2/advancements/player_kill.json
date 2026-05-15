@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "vl_kill": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:pig"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "vl_kill"
+      ]
+    ],
+    "rewards": {
+      "function": "vl2:game_info/killed_player"
+    }
+  }

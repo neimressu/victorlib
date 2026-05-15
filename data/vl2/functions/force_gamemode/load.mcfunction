@@ -1,0 +1,1 @@
+execute unless data storage vl2:gamemode {loaded:1} run function vl2:force_gamemode/load_storage

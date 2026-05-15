@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "vl_died": {
+        "trigger": "minecraft:entity_killed_player",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:player"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "vl_died"
+      ]
+    ],
+    "rewards": {
+      "function": "vl2:game_info/player_died"
+    }
+  }

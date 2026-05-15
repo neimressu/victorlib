@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "vl_tj": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "vl_tj"
+    ]
+  ],
+  "rewards": {
+    "function": "vl2:teams/join"
+  }
+}

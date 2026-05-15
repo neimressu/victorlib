@@ -1,0 +1,1 @@
+data modify storage vl2:weapon_storage team1.slot2.main set from entity @s SelectedItem

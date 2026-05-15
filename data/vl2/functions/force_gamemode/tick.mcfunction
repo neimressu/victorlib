@@ -1,0 +1,5 @@
+execute if data storage vl2:gamemode {force:{enabled:0}} run return 0
+execute if data storage vl2:gamemode {force:{gamemode:0}} as @a[gamemode=!spectator] unless data entity @s {Inventory:[{Slot:103b,id:"create:goggles",tag:{CustomData:["admin"]}}]} run gamemode survival
+execute if data storage vl2:gamemode {force:{gamemode:1}} as @a[gamemode=!spectator] unless data entity @s {Inventory:[{Slot:103b,id:"create:goggles",tag:{CustomData:["admin"]}}]} run gamemode creative
+execute if data storage vl2:gamemode {force:{gamemode:2}} as @a[gamemode=!spectator] unless data entity @s {Inventory:[{Slot:103b,id:"create:goggles",tag:{CustomData:["admin"]}}]} run gamemode adventure
+execute if data storage vl2:gamemode {force:{gamemode:3}} as @a[gamemode=!spectator] unless data entity @s {Inventory:[{Slot:103b,id:"create:goggles",tag:{CustomData:["admin"]}}]} run gamemode spectator

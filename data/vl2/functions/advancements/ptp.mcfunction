@@ -1,0 +1,1 @@
+tp @a[tag=need_tp] @e[tag=vl2,tag=main_lobby,limit=1]

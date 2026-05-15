@@ -1,0 +1,1 @@
+execute store result score temp1 vl_math run clear @s createdeco:copper_coin 0
