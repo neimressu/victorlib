@@ -1,1 +1,0 @@
-data modify storage vl2:weapon_storage loaded set value 1
